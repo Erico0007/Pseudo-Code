@@ -1,0 +1,5 @@
+{
+  "name": "PseudoCode Studio",
+  "description": "A desktop-like environment to transform pseudocode into production-ready code with logic validation.",
+  "requestFramePermissions": []
+}
